@@ -1,6 +1,4 @@
-# start
-
-## info
+## info 'Srart' rep
 ### …or create a new repository on the command line  
 echo "# start" >> README.md  
 git init  
